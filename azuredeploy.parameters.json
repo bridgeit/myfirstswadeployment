@@ -21,7 +21,7 @@
                 "value": "main"
             },
             "repositoryToken": {
-                "value": "<YOUR-GITHUB-PAT>" 
+                "value": "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" 
             },
             "appLocation": {
                 "value": "/"
